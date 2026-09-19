@@ -230,4 +230,4 @@ This repository serves as the official landing page for TrackMania Nations. The 
 **Get the most recent version of TrackMania Nations today!**
 
 ---
-**Last updated:** 2026-09-19 10:01:09 UTC
+**Last updated:** 2026-09-19 14:03:34 UTC
